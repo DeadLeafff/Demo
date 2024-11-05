@@ -1,2 +1,1 @@
-# Demo
-mypiiizzastore.netlify.app/
+# Pizza_Store_basic-react
